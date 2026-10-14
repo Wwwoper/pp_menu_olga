@@ -1,0 +1,83 @@
+{
+  "id": "day-36",
+  "label": "36",
+  "variantOf": null,
+  "meals": [
+    {
+      "type": "breakfast",
+      "dish": "запеканка",
+      "ingredients": [
+        {
+          "name": "Запеканка готовая",
+          "grams": 219
+        },
+        {
+          "name": "Банан",
+          "grams": 87
+        },
+        {
+          "name": "Миндаль/фундук/грецкий/кешью",
+          "grams": 13
+        }
+      ]
+    },
+    {
+      "type": "lunch",
+      "dish": null,
+      "ingredients": [
+        {
+          "name": "Грудка/белая рыба/креветки/кальмар/тунец",
+          "grams": 105
+        },
+        {
+          "name": "Соба/гречка готовая",
+          "grams": 105
+        },
+        {
+          "name": "Овощи",
+          "grams": 175
+        },
+        {
+          "name": "Сметана 15%",
+          "grams": 17
+        },
+        {
+          "name": "Орешки",
+          "grams": 22
+        }
+      ]
+    },
+    {
+      "type": "dinner",
+      "dish": null,
+      "ingredients": [
+        {
+          "name": "Говядина мраморная",
+          "grams": 105
+        },
+        {
+          "name": "Картофель без масла",
+          "grams": 96
+        },
+        {
+          "name": "Овощи и зелень",
+          "grams": 175
+        },
+        {
+          "name": "Сыр гауда 45%",
+          "grams": 26
+        }
+      ]
+    },
+    {
+      "type": "snack",
+      "dish": null,
+      "ingredients": [
+        {
+          "name": "Клубника/ягоды",
+          "grams": 280
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "day-31",
+  "label": "31",
+  "variantOf": null,
+  "meals": [
+    {
+      "type": "breakfast",
+      "dish": null,
+      "ingredients": [
+        {
+          "name": "Яйцо",
+          "grams": 52
+        },
+        {
+          "name": "Слабосоленая кета",
+          "grams": 22
+        },
+        {
+          "name": "Хлебец",
+          "grams": 10
+        },
+        {
+          "name": "Пшено/амарант сухой",
+          "grams": 48
+        },
+        {
+          "name": "Кокосовое молоко",
+          "grams": 74
+        },
+        {
+          "name": "Масло сливочное/гхи/оливковое",
+          "grams": 6
+        },
+        {
+          "name": "Груша",
+          "grams": 79
+        }
+      ]
+    },
+    {
+      "type": "lunch",
+      "dish": null,
+      "ingredients": [
+        {
+          "name": "Творог 5%",
+          "grams": 166
+        },
+        {
+          "name": "Яйцо",
+          "grams": 52
+        },
+        {
+          "name": "Сыр гауда 45–50%",
+          "grams": 44
+        },
+        {
+          "name": "Мука",
+          "grams": 26
+        },
+        {
+          "name": "Сыр камамбер/бри",
+          "grams": 35
+        },
+        {
+          "name": "Миндаль/грецкий",
+          "grams": 6
+        },
+        {
+          "name": "Груша",
+          "grams": 44
+        },
+        {
+          "name": "Мёд",
+          "grams": 5
+        }
+      ]
+    },
+    {
+      "type": "dinner",
+      "dish": null,
+      "ingredients": [
+        {
+          "name": "Белая рыба/грудка/тунец/креветки",
+          "grams": 87
+        },
+        {
+          "name": "Картофель без масла",
+          "grams": 87
+        },
+        {
+          "name": "Квашеная капуста/дайкон/овощи",
+          "grams": 175
+        }
+      ]
+    },
+    {
+      "type": "snack",
+      "dish": null,
+      "ingredients": [
+        {
+          "name": "Клубника/ягоды",
+          "grams": 280
+        }
+      ]
+    }
+  ]
+}

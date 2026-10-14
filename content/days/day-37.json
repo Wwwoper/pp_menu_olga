@@ -1,0 +1,91 @@
+{
+  "id": "day-37",
+  "label": "37",
+  "variantOf": null,
+  "meals": [
+    {
+      "type": "breakfast",
+      "dish": "омлет Эвер",
+      "ingredients": [
+        {
+          "name": "Слабосолёная рыба",
+          "grams": 26
+        },
+        {
+          "name": "Творожный сыр альметте",
+          "grams": 22
+        },
+        {
+          "name": "Хлебцы",
+          "grams": 22
+        },
+        {
+          "name": "Яйцо",
+          "grams": 105
+        },
+        {
+          "name": "Сыр гауда 45%",
+          "grams": 26
+        },
+        {
+          "name": "Овощи",
+          "grams": 175
+        }
+      ]
+    },
+    {
+      "type": "lunch",
+      "dish": null,
+      "ingredients": [
+        {
+          "name": "Бедро/голень/печень/форель",
+          "grams": 105
+        },
+        {
+          "name": "Картофель",
+          "grams": 105
+        },
+        {
+          "name": "Капуста/соленья",
+          "grams": 96
+        },
+        {
+          "name": "Клубника/ягоды",
+          "grams": 175
+        }
+      ]
+    },
+    {
+      "type": "dinner",
+      "dish": null,
+      "ingredients": [
+        {
+          "name": "Эскалоп свиной",
+          "grams": 87
+        },
+        {
+          "name": "Овощи",
+          "grams": 219
+        },
+        {
+          "name": "Греча готовая",
+          "grams": 122
+        },
+        {
+          "name": "Яблоко",
+          "grams": 219
+        }
+      ]
+    },
+    {
+      "type": "snack",
+      "dish": "чизкейк",
+      "ingredients": [
+        {
+          "name": "Чизкейк готовый",
+          "grams": 157
+        }
+      ]
+    }
+  ]
+}

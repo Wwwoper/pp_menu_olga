@@ -1,0 +1,95 @@
+{
+  "id": "day-33-var-2",
+  "label": "33 (2)",
+  "variantOf": "day-33",
+  "meals": [
+    {
+      "type": "breakfast",
+      "dish": "каша",
+      "ingredients": [
+        {
+          "name": "Геркулес/пшено сухой",
+          "grams": 44
+        },
+        {
+          "name": "Кокосовое молоко",
+          "grams": 35
+        },
+        {
+          "name": "Хлебец",
+          "grams": 10
+        },
+        {
+          "name": "Сыр",
+          "grams": 26
+        },
+        {
+          "name": "Мёд/варенье",
+          "grams": 10
+        },
+        {
+          "name": "Ягоды",
+          "grams": 61
+        }
+      ]
+    },
+    {
+      "type": "lunch",
+      "dish": "лазанья",
+      "ingredients": [
+        {
+          "name": "Лазанья готовая",
+          "grams": 175
+        },
+        {
+          "name": "Томатный сок",
+          "grams": 219
+        },
+        {
+          "name": "Овощи свежие",
+          "grams": 175
+        },
+        {
+          "name": "Финики/курага",
+          "grams": 26
+        }
+      ]
+    },
+    {
+      "type": "dinner",
+      "dish": "жареный творог",
+      "ingredients": [
+        {
+          "name": "Творог 0,1%",
+          "grams": 175
+        },
+        {
+          "name": "Яйца",
+          "grams": 96
+        },
+        {
+          "name": "Сыр",
+          "grams": 26
+        },
+        {
+          "name": "Овощи свежие",
+          "grams": 175
+        },
+        {
+          "name": "Хлебец",
+          "grams": 10
+        }
+      ]
+    },
+    {
+      "type": "snack",
+      "dish": null,
+      "ingredients": [
+        {
+          "name": "Батончик Bombbar",
+          "grams": 52
+        }
+      ]
+    }
+  ]
+}

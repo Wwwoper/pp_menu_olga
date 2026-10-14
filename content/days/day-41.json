@@ -1,0 +1,107 @@
+{
+  "id": "day-41",
+  "label": "41",
+  "variantOf": null,
+  "meals": [
+    {
+      "type": "breakfast",
+      "dish": "каша на молоке",
+      "ingredients": [
+        {
+          "name": "Геркулес сухой",
+          "grams": 35
+        },
+        {
+          "name": "Молоко 3,2%",
+          "grams": 114
+        },
+        {
+          "name": "Сыр гауда 45%",
+          "grams": 26
+        },
+        {
+          "name": "Мёд",
+          "grams": 17
+        },
+        {
+          "name": "Хлебцы",
+          "grams": 13
+        },
+        {
+          "name": "Яйцо",
+          "grams": 52
+        },
+        {
+          "name": "Шоколад 75%",
+          "grams": 13
+        }
+      ]
+    },
+    {
+      "type": "lunch",
+      "dish": null,
+      "ingredients": [
+        {
+          "name": "Грудка/индейка/белая рыба/кальмар/креветки",
+          "grams": 96
+        },
+        {
+          "name": "Сыр гауда 45%",
+          "grams": 26
+        },
+        {
+          "name": "Макароны отварные",
+          "grams": 105
+        },
+        {
+          "name": "Овощи",
+          "grams": 175
+        },
+        {
+          "name": "Сметана 15%",
+          "grams": 22
+        }
+      ]
+    },
+    {
+      "type": "dinner",
+      "dish": null,
+      "ingredients": [
+        {
+          "name": "Мраморная говядина/чеваппи",
+          "grams": 114
+        },
+        {
+          "name": "Картофель",
+          "grams": 131
+        },
+        {
+          "name": "Овощи",
+          "grams": 175
+        },
+        {
+          "name": "Сметана 15%",
+          "grams": 22
+        },
+        {
+          "name": "Оливки",
+          "grams": 22
+        }
+      ]
+    },
+    {
+      "type": "snack",
+      "dish": null,
+      "ingredients": [
+        {
+          "name": "Мягкий творог 0,1%",
+          "grams": 131
+        },
+        {
+          "name": "Ягоды",
+          "grams": 44
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "day-32",
+  "label": "32",
+  "variantOf": null,
+  "meals": [
+    {
+      "type": "breakfast",
+      "dish": null,
+      "ingredients": [
+        {
+          "name": "Лаваш",
+          "grams": 70
+        },
+        {
+          "name": "Творог 5%",
+          "grams": 61
+        },
+        {
+          "name": "Сыр",
+          "grams": 26
+        },
+        {
+          "name": "Укроп/чеснок/петрушка",
+          "grams": 17
+        },
+        {
+          "name": "Яйцо",
+          "grams": 52
+        },
+        {
+          "name": "Овощи",
+          "grams": 131
+        },
+        {
+          "name": "Финики/курага",
+          "grams": 31
+        }
+      ]
+    },
+    {
+      "type": "lunch",
+      "dish": null,
+      "ingredients": [
+        {
+          "name": "Грудка/кальмар/креветки",
+          "grams": 105
+        },
+        {
+          "name": "Айсберг",
+          "grams": 61
+        },
+        {
+          "name": "Свежие овощи",
+          "grams": 131
+        },
+        {
+          "name": "Сыр",
+          "grams": 26
+        },
+        {
+          "name": "Кукуруза консервированная",
+          "grams": 52
+        },
+        {
+          "name": "Греческий йогурт 2%",
+          "grams": 44
+        }
+      ]
+    },
+    {
+      "type": "dinner",
+      "dish": null,
+      "ingredients": [
+        {
+          "name": "Мраморная говядина",
+          "grams": 96
+        },
+        {
+          "name": "Овощи",
+          "grams": 219
+        },
+        {
+          "name": "Хумус/сметана 15%",
+          "grams": 26
+        },
+        {
+          "name": "Авокадо",
+          "grams": 52
+        },
+        {
+          "name": "Семечки/кунжут/лён",
+          "grams": 6
+        },
+        {
+          "name": "Картофель",
+          "grams": 87
+        }
+      ]
+    },
+    {
+      "type": "snack",
+      "dish": null,
+      "ingredients": [
+        {
+          "name": "Шоколад Бабаевский 75%",
+          "grams": 18
+        }
+      ]
+    }
+  ]
+}
